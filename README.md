@@ -8,7 +8,7 @@
 
 **UTILISATION**
 
-1 - Mettez le script msf-persistance-android.sh dans le dossier root et renommez le .sh
+1 - Mettez le script msf-persistance-android.sh dans votre dossier personnel et renommez le .sh
 
 2 - Ouvrir MSF
 
