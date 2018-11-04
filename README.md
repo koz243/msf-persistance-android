@@ -1,6 +1,6 @@
 # MSF PERSISTANCE ANDROID
 
-![msf-persistance-android](https://raw.githubusercontent.com/oda-alexandre/msf-persistance-android/master/logo-msf.png) ![docker](https://raw.githubusercontent.com/oda-alexandre/msf-persistance-android/master/logo-android.png)
+![msf](https://raw.githubusercontent.com/oda-alexandre/msf-persistance-android/master/logo-msf.png) ![android](https://raw.githubusercontent.com/oda-alexandre/msf-persistance-android/master/logo-android.png)
 
 
 ## INDEX
