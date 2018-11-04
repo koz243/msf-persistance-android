@@ -37,7 +37,7 @@ exploit
 ```
 
 
-3 - Copier/Coller dans un terminal en console MSF avec une session android/meterpreter/reverse_tcp :
+3 - Copier/Coller dans un terminal en console MSF avec une session android/meterpreter/reverse_tcp
 
 ```
 cd /
