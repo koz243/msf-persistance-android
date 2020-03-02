@@ -5,7 +5,6 @@
 - [MSF PERSISTANCE ANDROID](#msf-persistance-android)
   - [INDEX](#index)
   - [BADGES](#badges)
-  - [FIRST UPDATE](#first-update)
   - [INTRODUCTION](#introduction)
   - [PREREQUISITES](#prerequisites)
   - [USE](#use)
@@ -14,10 +13,6 @@
 ## BADGES
 
 [![pipeline status](https://gitlab.com/oda-alexandre/msf-persistance-android/badges/master/pipeline.svg)](https://gitlab.com/oda-alexandre/msf-persistance-android/commits/master)
-
-## FIRST UPDATE
-
-Date: 01-01-01
 
 ## INTRODUCTION
 
