@@ -60,8 +60,8 @@ test_app:
   image: debian:latest
   script:
     - echo -e '\033[36;1m ******* TEST APP ******** \033[0m'
-    - chmod +x msf-persistance-android.sh
-    - ./msf-persistance-android.sh
+    - chmod +x msf-persistance-android
+    - ./msf-persistance-android
   only:
     - dev
 

@@ -24,7 +24,7 @@ Use [Metasploit](https://www.metasploit.com/)
 
 ## USE
 
-1 - Put the msf-persistance-android.sh script in your personal folder and rename .sh
+1 - Put the msf-persistance-android script in your personal folder and rename .sh
 
 2 - Open MSF
 
