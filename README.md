@@ -1,7 +1,5 @@
 # MSF PERSISTANCE ANDROID
 
-## INDEX
-
 - [MSF PERSISTANCE ANDROID](#msf-persistance-android)
   - [INDEX](#index)
   - [BADGES](#badges)
